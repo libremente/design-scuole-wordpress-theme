@@ -1,4 +1,5 @@
-# ![developers.italia](https://avatars1.githubusercontent.com/u/15377824?s=36&v=4 "developers.italia") Design Italia
+# ![developers.italia](https://avatars1.githubusercontent.com/u/15377824?s=36&v=4 "developers.italia") [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flibremente%2Fdesign-scuole-wordpress-theme.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flibremente%2Fdesign-scuole-wordpress-theme?ref=badge_shield)
+Design Italia
 
 # sviluppo in corso
 
@@ -55,3 +56,6 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flibremente%2Fdesign-scuole-wordpress-theme.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flibremente%2Fdesign-scuole-wordpress-theme?ref=badge_large)
